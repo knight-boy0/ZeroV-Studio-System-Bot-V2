@@ -3,7 +3,7 @@ Der System Bot ist ein Umfangreicher bot zu selbst hosten.
 Er hat über 20 Commands und ist auf maximale performance ausgelegt.
 Der Bot hat Folgende Fehler: Blacklist Ban Prblem ( Bannt leute wenn ein Balcklist wort benutzt worden ist. Wurde in V4 Gefixt, Link Clean Problem (Löscht links in allen Kannälen)
 
-Bei Interesse an der V4 des Bots einfach im Discord ein Ticket aufmachen. 
+Bei Interesse an der V2.0.1 des Bots einfach im Discord ein Ticket aufmachen. 
 https://discord.gg/FMHUNQm7aX
 
 
